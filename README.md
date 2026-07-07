@@ -1,4 +1,10 @@
 # 💳 Credit Card Approval Prediction
+## Dataset
+
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+Download the datasets from:
+- https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
 
 ## 📖 Project Overview
 
